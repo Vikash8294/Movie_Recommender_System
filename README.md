@@ -52,5 +52,7 @@ It recommends movies based on *user ratings similarity* (item-item collaborative
 3. Select a movie from the dropdown: click *Recommend* and see the top 5 similar movies.
    
 ## 📸 Output Example
-Example Streamlit output for 'Star Wars (1977)'
-   <img width="1905" height="954" alt="Screenshot 2025-07-11 130127" src="https://github.com/user-attachments/assets/02a4bdad-e549-47b6-95cf-f23902601f03" />
+ 
+
+![WhatsApp Image 2025-08-26 at 21 07 38_0682777d](https://github.com/user-attachments/assets/3d309cff-2950-426b-a655-8b47eb08e7a3)
+![WhatsApp Image 2025-08-26 at 21 07 38_a593ee63](https://github.com/user-attachments/assets/321dda4c-dd29-4e15-ab1d-f4b5ead0d39b)
